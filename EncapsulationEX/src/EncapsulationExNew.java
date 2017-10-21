@@ -1,7 +1,7 @@
 
 public class EncapsulationExNew {
 
-	private  String name;
+	private String name;
 	private String idnum;
 	private int age;
 	private String address;
